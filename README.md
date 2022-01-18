@@ -84,10 +84,10 @@
 
 ---------
  ## ```Donasi```
-* [`Saweria`](https://saweria.co/siegrin)
-* [`Trakteer`](https://trakteer.id/siegrin__/tip)
+* [`Saweria`](https://saweria.co/dimdimsptr)
 
  ## ```Thanks to```
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Lendev`](https://github.com/lendradx)
 * [`Dellas`](https://github.com/itsmedell)
+* [`Nathan`](https://github.com/alvarooonathan)
